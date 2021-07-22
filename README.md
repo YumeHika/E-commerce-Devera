@@ -1,4 +1,4 @@
-# ecommercedevera
+# E-commerce-Devera
 
 A new Flutter project.
 
